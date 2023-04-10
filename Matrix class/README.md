@@ -1,3 +1,4 @@
+# Matrix template class
 This is a template implementation for a matrix class that is able to create matrices with a default-, move-, and copy-constructor. The template also contains accessors, chainable and non-chainable methods for matrix-operations.
 Matrices in this implementation can also be printed in readable format and be edited by inserting, appending and removing rows and columns. This folder also contains a unittest for testing this implementation.
 
